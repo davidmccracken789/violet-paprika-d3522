@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/great-zebra.PNG
+      image: images/interesting-planet.PNG
       image_url: /
       image_alt: Footer logo
       content: Executive Integration Advisory
