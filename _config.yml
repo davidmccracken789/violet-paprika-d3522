@@ -89,7 +89,7 @@ footer:
     - label: Privacy Policy
       url: /privacy-policy
       style: link
-  content: '&copy; Unite Digital. All rights reserved.'
+  content: '&copy; &year; Unite Digital. All rights reserved.'
 sass:
   indentWidth: 4
   style: nested
