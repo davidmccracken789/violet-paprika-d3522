@@ -19,7 +19,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: What we do
     subtitle: >-
       As a leader in integration, we can help you integrate anything—and
       everything. From hybrid integration and application integration, to data
