@@ -115,6 +115,9 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Executive Integration Advisory
-meta_description: The preview of the Azimuth theme
+meta_description: >-
+  Unite Digital are the experts in APIs, Integration and Microservices.    We
+  **design**, **build** and **maintain** both On-Prem and SaaS product
+  integrations that power the modern enterprise.
 layout: landing
 ---
