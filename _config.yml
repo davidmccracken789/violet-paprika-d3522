@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/happy-mustard.PNG
+      image: images/incredible-rabbit.PNG
       image_url: /
       image_alt: Footer logo
       content: Executive Integration Advisory
