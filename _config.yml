@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: blue
 header:
-  logo_img: images/famous-tiger.PNG
+  logo_img: images/logo-tight.PNG
   logo_img_alt: Unite Digital
   has_nav: false
   nav_links:
@@ -29,7 +29,7 @@ header:
 footer:
   sections:
     - type: footer_text
-      image: images/great-zebra.PNG
+      image: images/happy-mustard.PNG
       image_url: /
       image_alt: Footer logo
       content: Executive Integration Advisory
