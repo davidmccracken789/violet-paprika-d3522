@@ -110,10 +110,6 @@ sections:
       - label: Get Started
         url: 'https://calendly.com/unite-digital'
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 meta_title: Executive Integration Advisory
 meta_description: >-
   Unite Digital are the experts in APIs, Integration and Microservices.    We
