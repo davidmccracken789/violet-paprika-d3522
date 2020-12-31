@@ -19,8 +19,11 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      As a leader in integration, we can help you integrate anything—and
+      everything. From hybrid integration and application integration, to data
+      integration and Business to Business integration, we’ve built our
+      market-leading Acceleration Platform to help free your data and deliver
+      your initiatives with increased speed and agility.
     features:
       - title: Integration to Innovate
         image: images/feature1.png
