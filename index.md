@@ -25,7 +25,7 @@ sections:
       market-leading Acceleration Platform to help free your data and deliver
       your initiatives with increased speed and agility.
     features:
-      - title: Integration to Innovate
+      - title: Innovate faster with APIs
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
