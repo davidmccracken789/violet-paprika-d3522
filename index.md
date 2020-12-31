@@ -7,8 +7,9 @@ sections:
     image_alt: App preview
     title: Digital matters more than ever - Trust the experts
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Unite Digital are the experts in APIs, Integration and Microservices.  We
+      design, build and maintain both On-Prem and SaaS product integrations that
+      power the modern enterprise.
     actions:
       - label: Learn More
         url: /features
