@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Unite Digital
 sections:
   - section_id: hero
     type: section_hero
@@ -10,8 +10,8 @@ sections:
       Unite Digital are the experts in APIs, Integration and Microservices.  
 
 
-      We **design**, **build** and **maintain** both On-Prem and SaaS product
-      integrations that power the modern enterprise.
+      We **advise**, **design**, **build** and **maintain** both On-Prem and
+      SaaS product integrations that power the modern enterprise.
     actions:
       - label: Learn More
         url: /features
@@ -19,7 +19,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: What we do
     subtitle: >-
       As a leader in integration, we can help you integrate anything—and
       everything. From hybrid integration and application integration, to data
@@ -27,6 +27,14 @@ sections:
       market-leading Acceleration Platform to help free your data and deliver
       your initiatives with increased speed and agility.
     features:
+      - title: Executive Strategy and Guidance
+        content: >-
+          No matter where you on your Integration journey - we can map out a
+          plan in plain English and execute.
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+        image: images/about.jpg
       - title: Innovate faster with APIs
         image: images/6.jpg
         image_alt: App preview on a phone and tablet
@@ -106,7 +114,10 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+meta_title: Executive Integration Advisory
+meta_description: >-
+  Unite Digital are the experts in APIs, Integration and Microservices.    We
+  **design**, **build** and **maintain** both On-Prem and SaaS product
+  integrations that power the modern enterprise.
 layout: landing
 ---

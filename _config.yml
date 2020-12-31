@@ -1,20 +1,20 @@
-title: Azimuth
+title: Unite Digital
 baseurl: /
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
 base_font: nunito-sans
-palette: blue
+palette: cyan
 header:
-  logo_img: images/logo.svg
+  logo_img: images/Logo.PNG
   logo_img_alt: Unite Digital
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Home
       url: /
       style: link
-    - label: Features
+    - label: What we do
       url: /features
       style: link
     - label: Pricing
