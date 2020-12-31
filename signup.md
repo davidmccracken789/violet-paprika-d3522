@@ -1,5 +1,5 @@
 ---
-title: How to contact Unite Digital
+title: Contact Us
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
