@@ -8,8 +8,8 @@ sections:
     title: Digital matters more than ever - Trust the experts
     content: >-
       Unite Digital are the experts in APIs, Integration and Microservices.  We
-      design, build and maintain both On-Prem and SaaS product integrations that
-      power the modern enterprise.
+      **design**, **build** and **maintain** both On-Prem and SaaS product
+      integrations that power the modern enterprise.
     actions:
       - label: Learn More
         url: /features
