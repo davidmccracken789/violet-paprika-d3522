@@ -54,7 +54,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Drive growth with B2B Integration
-        image: images/feature3.png
+        image: images/10.jpg
         image_alt: App user profile preview
         content: >-
           When everything moves faster across your business, innovations and
