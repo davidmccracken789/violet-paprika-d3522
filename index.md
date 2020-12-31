@@ -56,7 +56,11 @@ sections:
       - title: Drive growth with B2B Integration
         image: images/feature3.png
         image_alt: App user profile preview
-        content: Free your data.  Interact with Trust.
+        content: >-
+          When everything moves faster across your business, innovations and
+          efficiencies are amplified. Unite Digital can assure the fluid flow of
+          data across your B2B operational processes, streamline partner
+          transactions and onboard new partners quickly.
         actions:
           - label: Learn More
             url: /features
