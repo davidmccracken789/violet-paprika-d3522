@@ -26,7 +26,7 @@ sections:
       your initiatives with increased speed and agility.
     features:
       - title: Innovate faster with APIs
-        image: images/feature1.png
+        image: images/6.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Deliver new products and services with APIs, microservices and
