@@ -95,7 +95,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: How can we help?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Schedule a no obligation catch up call to see if or how we can help.
     actions:
       - label: Get Started
         url: /signup
