@@ -98,7 +98,7 @@ sections:
     subtitle: Schedule a no obligation catch up call to see if or how we can help.
     actions:
       - label: Get Started
-        url: /signup
+        url: 'https://calendly.com/unite-digital'
         style: primary
   - section_id: recent-posts
     type: section_posts
