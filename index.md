@@ -39,7 +39,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cloud-to-cloud Integration made easy
-        image: images/feature2.png
+        image: images/8.jpg
         image_alt: App users welcoming a new member
         content: >-
           Customer or financial data all over the place?  With more and more
