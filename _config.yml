@@ -32,7 +32,7 @@ footer:
       image: images/logo-alt.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: Executive Integration Advisory
     - type: footer_nav
       title: Company
       nav_links:
