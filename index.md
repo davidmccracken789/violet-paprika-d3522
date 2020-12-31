@@ -53,7 +53,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: API Management and B2B Integration
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
