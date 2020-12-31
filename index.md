@@ -72,16 +72,8 @@ sections:
             icon_position: right
       - title: Executive Strategy and Guidance
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          No matter where you on your Integration journey - we can map out a
+          plan in plain English and execute.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
