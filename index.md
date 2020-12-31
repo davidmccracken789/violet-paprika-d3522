@@ -11,7 +11,7 @@ sections:
 
 
       We **advise**, **design**, **build** and **maintain** both On-Prem and
-      SaaS app integrations that power the modern enterprise.
+      SaaS integrations that power the modern enterprise.
     actions:
       - label: Learn More
         url: /features
