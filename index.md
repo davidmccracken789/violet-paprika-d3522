@@ -53,7 +53,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: API Management and B2B Integration
+      - title: Drive growth with B2B Integration
         image: images/feature3.png
         image_alt: App user profile preview
         content: Free your data.  Interact with Trust.
