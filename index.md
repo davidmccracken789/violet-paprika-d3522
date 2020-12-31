@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Unite Digital
 sections:
   - section_id: hero
     type: section_hero
