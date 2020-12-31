@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/11.jpg
     image_alt: App preview
-    title: Digital matters more than ever - Trust the experts
+    title: Digital Integration matters more than ever - Trust the experts
     content: >-
       Unite Digital are the experts in APIs, Integration and Microservices.  
 
