@@ -38,7 +38,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cloud to cloud Integration made easy
+      - title: Cloud-to-cloud Integration made easy
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
