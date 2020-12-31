@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/1.jpg
+    image: images/11.jpg
     image_alt: App preview
     title: Digital matters more than ever - Trust the experts
     content: >-
