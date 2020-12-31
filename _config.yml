@@ -7,7 +7,7 @@ collections:
 base_font: nunito-sans
 palette: blue
 header:
-  logo_img: images/famous-tiger.PNG
+  logo_img: images/logo-tight.PNG
   logo_img_alt: Unite Digital
   has_nav: false
   nav_links:
