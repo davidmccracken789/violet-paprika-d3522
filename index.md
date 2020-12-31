@@ -70,7 +70,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Integration and API Strategy and Guidance
+      - title: Executive Strategy and Guidance
         content: >-
           ## Lorem ipsum
 
