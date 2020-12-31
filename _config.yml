@@ -8,7 +8,7 @@ base_font: nunito-sans
 palette: blue
 header:
   logo_img: images/logo.svg
-  logo_img_alt: Logo
+  logo_img_alt: Unite Digital
   has_nav: true
   nav_links:
     - label: Home
@@ -23,7 +23,7 @@ header:
     - label: Style Guide
       url: /style-guide
       style: link
-    - label: Sign Up
+    - label: Contact Us
       url: /signup
       style: primary
 footer:
@@ -32,7 +32,7 @@ footer:
       image: images/logo-alt.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: Executive Integration Advisory
     - type: footer_nav
       title: Company
       nav_links:
@@ -89,11 +89,7 @@ footer:
     - label: Privacy Policy
       url: /privacy-policy
       style: link
-  content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
-    href="https://www.stackbit.com" target="_blank" rel="noopener">Stackbit</a>.
-    Get yours <a href="https://app.stackbit.com/create?theme=azimuth"
-    target="_blank" rel="noopener">here</a>.
+  content: '&copy; &year; Unite Digital. All rights reserved.'
 sass:
   indentWidth: 4
   style: nested

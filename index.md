@@ -3,13 +3,15 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/11.jpg
     image_alt: App preview
     title: Digital matters more than ever - Trust the experts
     content: >-
-      Unite Digital are the experts in APIs, Integration and Microservices.  We
-      design, build and maintain both On-Prem and SaaS product integrations that
-      power the modern enterprise.
+      Unite Digital are the experts in APIs, Integration and Microservices.  
+
+
+      We **design**, **build** and **maintain** both On-Prem and SaaS product
+      integrations that power the modern enterprise.
     actions:
       - label: Learn More
         url: /features
@@ -19,16 +21,18 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      As a leader in integration, we can help you integrate anything—and
+      everything. From hybrid integration and application integration, to data
+      integration and Business to Business integration, we’ve built our
+      market-leading Acceleration Platform to help free your data and deliver
+      your initiatives with increased speed and agility.
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
+      - title: Innovate faster with APIs
+        image: images/6.jpg
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Deliver new products and services with APIs, microservices and
+          full-strength connectivity — from app to edge.
         actions:
           - label: Learn More
             url: /features
@@ -36,13 +40,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: Cloud-to-cloud Integration made easy
+        image: images/8.jpg
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Customer or financial data all over the place?  With more and more
+          businesses choosing disparate, best of breed SaaS apps, the need to
+          integrate has never been higher.  Unite Digital are the experts of
+          Cloud-to-cloud integration.
         actions:
           - label: Learn More
             url: /features
@@ -50,13 +55,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - title: Drive growth with B2B Integration
+        image: images/10.jpg
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          When everything moves faster across your business, innovations and
+          efficiencies are amplified. Unite Digital can assure the fluid flow of
+          data across your B2B operational processes, streamline partner
+          transactions and onboard new partners quickly.
         actions:
           - label: Learn More
             url: /features
@@ -90,11 +96,11 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: How can we help?
+    subtitle: Schedule a quick catch up call to see if or how we can help.
     actions:
       - label: Get Started
-        url: /signup
+        url: 'https://calendly.com/unite-digital'
         style: primary
   - section_id: recent-posts
     type: section_posts
