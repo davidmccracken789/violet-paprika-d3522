@@ -27,6 +27,14 @@ sections:
       market-leading Acceleration Platform to help free your data and deliver
       your initiatives with increased speed and agility.
     features:
+      - title: Executive Strategy and Guidance
+        content: >-
+          No matter where you on your Integration journey - we can map out a
+          plan in plain English and execute.
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+        image: images/about.jpg
       - title: Innovate faster with APIs
         image: images/6.jpg
         image_alt: App preview on a phone and tablet
@@ -70,14 +78,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Executive Strategy and Guidance
-        content: >-
-          No matter where you on your Integration journey - we can map out a
-          plan in plain English and execute.
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/about.jpg
   - section_id: reviews
     type: section_reviews
     background: white
