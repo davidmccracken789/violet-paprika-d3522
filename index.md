@@ -95,7 +95,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: How can we help?
-    subtitle: Schedule a no obligation catch up call to see if or how we can help.
+    subtitle: Schedule a quick catch up call to see if or how we can help.
     actions:
       - label: Get Started
         url: 'https://calendly.com/unite-digital'
